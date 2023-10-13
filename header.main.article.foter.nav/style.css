@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.selector{
+    width: 55%;
+    height:80vh ;
+    margin: 30px auto;
+    padding-left: 20px;
+}
+header{
+    border: solid 1px;
+    width: 80%;
+    height: 10vh;
+    margin: 30px ;
+    background-color: darkcyan;
+}
+
+.sors{
+    margin-top: 20px;
+}
+
+.sors a{
+    margin: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.sors button{
+   width: 70px;
+   padding: 5px;
+   color: aliceblue;
+   background-color: black;
+}
+
+.sors input {
+padding: 5px;
+border: none;
+}
+
+nav{
+    margin-left: 30px;
+     border: solid 1px;
+     width: 20%;
+     height: 50vh;
+}
+
+nav p {
+    margin: 10px;
+}
+
+.wert{
+    display: flex;
+}
+
+main{
+    width: 59%;
+    margin-left: 10px;
+    border: solid 1px ;
+}
+
+main .bir{
+    margin: 10px;
+}
+
+main .iki{
+    margin: 10px;
+}
+
+footer {
+    border: solid 1px;
+    margin: 10px 10px 10px 30px;
+    padding: 20px;
+    width: 80%;
+}
+
+
